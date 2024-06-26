@@ -142,7 +142,7 @@ Les réalisations comprennent la conception d'un robot fonctionnel capable de na
 
 Ce projet a renforcé les compétences en ingénierie mécanique, électronique et logicielle, tout en cultivant une approche collaborative du travail d'équipe et de la résolution de problèmes complexes.
 
-
+#LabVIEW #Mécatronique #RobotAutonome #Arduino #Python #Matlab #ConversionChiffres #InterfaceUtilisateur #SécuritéInformatique #DéveloppementLogiciel #InnovationTechnologique #IoT #Ingénierie #ProjetÉtudiant #CollaborationTechnique #FutureTech #RobotiqueAvancée #VisionParOrdinateur #TechnologieDePointe #STEM #DéveloppementDeCompétences
 
 
 
