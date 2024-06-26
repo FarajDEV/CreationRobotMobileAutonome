@@ -17,7 +17,8 @@
 
 ![Robot de face](https://github.com/FarajDEV/LabVIEW-ConvertisseurRomainsArabes-Authentification/assets/88864407/d1aa995f-5d5a-4c05-ac2c-bd312283926b)
 
-Ce projet de fin d'étude en licence mécatronique explore la conception et l'implémentation d'un robot mobile autonome capable de navigation et de cartographie en utilisant principalement comme Software 🌟 **Arduino** 🌟, 🌟 **Python** 🌟, 🌟 **Matlab** 🌟 et le 🌟 **Terminal** 🌟. 
+Ce projet de fin d'étude en licence mécatronique explore la conception et l'implémentation d'un robot mobile autonome capable de navigation et de cartographie en utilisant principalement comme Software 🌟 **Arduino** 🌟, 🌟 **Python** 🌟, 
+ et 🌟 **Matlab** 🌟. 
  Ce README documente les composants, le fonctionnement, et les étapes de développement de ce projet ambitieux.
 
 ## Table des matières
