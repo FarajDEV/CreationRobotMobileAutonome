@@ -9,14 +9,15 @@
 ![](https://i.imgur.com/waxVImv.png)
 # 🌟 **CreationRobotMobileAutonome** 🚀
 
-## Projet N°1 🔄 🔐
+## Projet N°5 🔄 🔐
 # Projet de Fin d'Études de licence en MECATRONIQUE 🚀🤖
 # 🏛️✨ Création d'un robot mobile autonome. ✨🏛️
 
 
 ![Robot de face](https://github.com/FarajDEV/LabVIEW-ConvertisseurRomainsArabes-Authentification/assets/88864407/d1aa995f-5d5a-4c05-ac2c-bd312283926b)
 
-Ce projet de fin d'année en mécatronique explore la conception et l'implémentation d'un robot mobile autonome capable de navigation et de cartographie. Le robot utilise un ensemble de capteurs avancés et est contrôlé par une combinaison de logiciels et de matériel personnalisé. Ce README documente les composants, le fonctionnement, et les étapes de développement de ce projet ambitieux.
+Ce projet de fin d'étude en licence mécatronique explore la conception et l'implémentation d'un robot mobile autonome capable de navigation et de cartographie en utilisant principalement comme Software 🌟 **Arduino** 🌟, 🌟 **Python** 🌟, 🌟 **Matlab** 🌟 et le 🌟 **Terminal** 🌟. 
+ Ce README documente les composants, le fonctionnement, et les étapes de développement de ce projet ambitieux.
 
 ## Table des matières
 
@@ -39,22 +40,16 @@ Ce projet de fin d'année en mécatronique explore la conception et l'implément
   - ESP32 pour Connexion sans Fil 📶
 
 - **Conception Mécanique du Robot Mobile** 🛠️🤖
-  - Vue Générale de la Conception Mécanique 📐
-  - Drifting 2D du Robot 🔄
-  - Intégration de l'Alimentation Externe 🔋
+  - La conception mécanique de mon robot a été réalisée avec 🌟 **Catia V5** 🌟 📐
+  - La conception mécanique a été optimisée pour que tous les éléments soient bien intégrés dans le robot, sans perte d'espace. 🔄
+  - Je tiens à souligner que j'ai dû retirer un étage du robot mobile après son impression, car le moteur pas à pas utilisé avait un couple très faible, ce qui ralentissait considérablement son avancement.
 
 - **Programmation et Logiciels Utilisés** 💻📊
   - Programmation sur Arduino 🖥️
   - Utilisation de Python pour la Visualisation 🐍📊
   - Communication avec MATLAB pour le Traitement des Données Lidar 📊🌐
 
-- **Conclusion** 🎓🚀
-  - Réalisations et Perspectives Futures 🌟
-  - Expériences Acquises et Compétences Développées 🧠🌱
 
-## Introduction 🌍🔍
-
-Dans un monde en constante évolution, la robotique mobile devient une solution innovante pour relever les défis complexes de notre société. Notre projet se distingue par son objectif ambitieux : créer un système de navigation autonome pour un robot mobile capable d'explorer son environnement, de créer une carte précise en 2D, et de trouver le chemin le plus court vers des destinations spécifiques. Cette initiative repose sur la fusion harmonieuse de disciplines telles que la robotique, l'informatique et les mathématiques.
 
 ### Objectifs du Projet 🎯
 
@@ -78,7 +73,7 @@ En explorant, le robot construit une carte précise de l'environnement, essentie
 
 ### Localisation en Temps Réel 📍
 
-La localisation précise en temps réel est assurée par une fusion de données de capteurs et des techniques d'odométrie, permettant au robot de se positionner avec exactitude sur la carte 2D.
+La localisation précise en temps réel est assurée par une fusion de données du lidar ld06 et des techniques d'odométrie, permettant au robot de se positionner avec exactitude sur la carte 2D.
 
 ### Rendu Graphique de l'Évolution 📈
 
@@ -112,18 +107,6 @@ Le Driver A4988 contrôle les moteurs pas à pas, calculant les pas nécessaires
 
 ESP32 permet une communication sans fil via Wi-Fi, connectant le robot au serveur pour des mises à jour en temps réel et une gestion à distance.
 
-## Conception Mécanique du Robot Mobile 🛠️🤖
-
-La conception mécanique du robot garantit une structure robuste et fonctionnelle pour supporter les composants électroniques et assurer la mobilité.
-
-### Vue Générale de la Conception Mécanique 📐
-
-La structure est conçue pour accueillir tous les composants électroniques tout en maintenant l'équilibre et la mobilité du robot sur différents terrains.
-
-### Drifting 2D du Robot 🔄
-
-Le concept de Drifting 2D permet au robot de s'adapter aux virages serrés et de manœuvrer avec agilité dans des espaces restreints.
-
 ### Intégration de l'Alimentation Externe 🔋
 
 Une alimentation externe de 12 volts est intégrée pour alimenter efficacement tous les composants du robot, réduisant ainsi le nombre de câbles et améliorant la portabilité.
@@ -150,7 +133,8 @@ Ce projet de fin d'année a été une aventure passionnante dans le domaine de l
 
 ### Réalisations et Perspectives Futures 🌟
 
-Les réalisations comprennent la conception d'un robot fonctionnel capable de naviguer, cartographier et éviter les obstacles de manière autonome. Les perspectives futures incluent l'amélioration des algorithmes de navigation et l'intégration de capteurs avancés pour une perception améliorée de l'environnement.
+Les réalisations comprennent la conception d'un robot fonctionnel capable de naviguer, cartographier et éviter les obstacles de manière autonome. Les perspectives futures incluent l'amélioration des algorithmes de navigation et l'intégration de capteurs avancés pour une perception améliorée de l'environnement et surtout la réalisation de mon [projet 4]([lien_vers_votre_projet_github](https://github.com/FarajDEV/RobotMobileLivraisonAutonome-InterfaceWeb)) en utilisant ce robot.
+
 
 ### Expériences Acquises et Compétences Développées 🧠🌱
 
