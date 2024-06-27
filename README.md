@@ -91,7 +91,7 @@ Le robot utilise une combinaison spécifique de matériels électroniques pour a
 
 ### Arduino MEGA 💡
 
-Arduino MEGA sert de cerveau central pour contrôler les composants du robot, y compris les moteurs, le Lidar et la communication sans fil.
+L'Arduino MEGA sert de cerveau central pour contrôler les composants du robot, y compris les moteurs, le Lidar et la communication sans fil. J'ai testé ce robot avec un Arduino Uno, mais cela n'a pas fonctionné en raison d'interférences des signaux. L'Arduino Uno ne dispose que d'un seul port série, utilisé à la fois pour le traitement des données du microcontrôleur et pour la communication série. Même en utilisant la bibliothèque SoftwareSerial, cela ne fonctionne pas, car son taux de transmission maximal est de 38400 bauds, alors que mon Lidar LD06 nécessite un taux de transmission de 230400 bauds.
 
 ### Moteur Pas à Pas 🔄
 
