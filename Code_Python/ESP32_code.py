@@ -4,6 +4,7 @@ import time
 serial_port = 'COM12'  
 
 
+
 ser = serial.Serial(serial_port, 115200, timeout=1)
 
 if ser.isOpen():
